@@ -83,7 +83,7 @@ $karyawan2->setGaji(8000000);
         background-color: #f2f2f2;
     }
 </style>
-<title>Gaji Karyawan</title>
+<title>Study Case Pak Ahmad - 2</title>
 <div class="main">
     <div class="container">
         <h2>Penerapan Visibility Private dalam project OOP PHP</h2>
