@@ -39,12 +39,12 @@ class Perusahaan {
 }
 
 $karyawan1 = new Perusahaan();
-$karyawan1->setNama("Jane Doe");
+$karyawan1->setNama("Rassel");
 $karyawan1->setPosisi('Manager');
 $karyawan1->setGaji(15000000);
 
 $karyawan2 = new Perusahaan();
-$karyawan2->setNama('John Doe');
+$karyawan2->setNama('Rivaldo');
 $karyawan2->setPosisi("Developer");
 $karyawan2->setGaji(8000000);
 ?>
