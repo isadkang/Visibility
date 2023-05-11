@@ -63,7 +63,7 @@ $perusahaan2->gaji_pokok = number_format(5000000,0,",",".");
 <title>Study Case Pak Ahmad</title>
 <div class="main">
     <div class="container">
-        <h2 align="center" >Penerapan Visibility dalam Project OOP PHP</h2>
+        <h2 align="center" >Penerapan Visibility Public dalam Project OOP PHP</h2>
         <table border="1">
             <tr>
                 <th>Nama Karyawan</th>
